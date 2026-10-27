@@ -49,7 +49,7 @@ git clone https://github.com/xtowerlink/mi-jie-skill.git ~/.claude/skills/mi-jie
 
 仓库主人的 Grok Bot 每晚约 **22:00（Asia/Tokyo，北京时间 21:00）** 跟踪 @wr0789 的新推文，把摘要追加到 `updates/` 和 `references/update-log.md`，并推送到本仓库。出现新的框架性提法时，同步更新 `SKILL.md`。没有新推文的日子不提交。
 
-当前基线：推文截至 2026-10-26 21:27（JST），共 3,108 条；粉丝汇编 PDF 为 710 页版（2025-12-28）。
+当前基线：初始语料截至 2026-10-26 21:27（JST），共 3,108 条；增量见 `updates/`，`.last_id` 现为 2115064764296782243（2026-10-27）。粉丝汇编 PDF 为 710 页版（2025-12-28）。
 
 ## 致谢与来源
 
